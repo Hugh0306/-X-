@@ -118,4 +118,4 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 [mitm]
 skip_validating_cert = true
 force_sni_domain_name = false
-hostname = -*apple.com, -weather-data.apple.com, -www.google.com, mp.weixin.qq.com, api.m.jd.com, music.163.com, ms.jr.jd.com, draw.jdfcloud.com, jdjoy.jd.com, trade-acs.m.taobao.com, *.bilibili.com, -*huami.com,  -consumer.fcbox.com, -*amemv.com, *.googlevideo.com
+hostname = mp.weixin.qq.com, -*apple.com, -weather-data.apple.com, -www.google.com, *.googlevideo.com, api.m.jd.com, ms.jr.jd.com, draw.jdfcloud.com, jdjoy.jd.com, trade-acs.m.taobao.com, music.163.com, *.bilibili.com, -*huami.com,  -consumer.fcbox.com, -*amemv.com
